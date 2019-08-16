@@ -1,6 +1,6 @@
 # MeetingNote
 
-[2019.08.16 1회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190816_1.md)
+- [19-08-16 1회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190816_1.md)
 
 ## 행사 일정
 ### 8월
