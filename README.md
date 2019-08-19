@@ -1,15 +1,17 @@
 # MeetingNote
 
 - [19-08-16 1회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190816_1.md)
+- [19-08-19 2회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190819_2.md)
 
 ## 행사 일정
 ### 8월
 - 20일 4시까지 KT 스타오디션 신청
 - 20일 SSTF
-- 22일 네이버 채용설명회 - 당첨시
+- 22일 네이버 채용설명회 - 3명 모두 참석
 - 23일 5시까지 미래에셋대우 신청 
 - 26일 삼성 A형 시험 신청 - 오전 10시
 - 27일 KT 컨퍼런스
+- 27일 카카오 
 
 ### 9월
 - 9일 삼성 B형 시험 신청 - 오전 10시
