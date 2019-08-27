@@ -3,6 +3,7 @@
 - [19-08-16 1회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190816_1.md)
 - [19-08-19 2회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190819_2.md)
 - [19-08-22 3회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190822_3.md)
+- [19-08-27 4회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190827_4.md)
 
 ## 행사 일정
 ### 8월
