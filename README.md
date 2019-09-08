@@ -13,7 +13,7 @@
 ### 9월
 - ~~1일 24시까지 [두산그룹 2019 신규 계열사]두산로지스틱스솔루션 SW 유지보수 직무 신입 채용 서류마감~~
 - ~~2일 17시까지 한국일보사 IT개발자 직무 신입 채용 서류마감~~
-- ~~**2일~8일 프로그래머스 7daySQL 챌린지** [링크](https://programmers.co.kr/events/7day-sql?utm_source=programmers&utm_medium=learn_7daySQL&utm_campaign=7daySQL~~
+- ~~**2일~8일 프로그래머스 7daySQL 챌린지** [링크](https://programmers.co.kr/events/7day-sql?utm_source=programmers&utm_medium=learn_7daySQL&utm_campaign=7daySQL)~~
 - ~~4일 13시까지 [NHN 계열사]피앤피시큐어 개발 직무 신입/경력 채용 서류 마감~~
 - ~~4일 14시까지 새마을금고중앙회 전산 직무 신입 채용 서류 마감~~
 - ~~**4일 24시까지 2020 카카오 블라인드 채용 서류 마감**~~
