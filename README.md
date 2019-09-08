@@ -6,13 +6,14 @@
 - [19-08-27 4회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190827_4.md)
 - [19-08-30 5회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190830_5.md)
 - [19-09-02 6회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190902_6.md)
+- [19-09-08 7회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190908_7.md)
 
 ## 행사 일정
 
 ### 9월
 - ~~1일 24시까지 [두산그룹 2019 신규 계열사]두산로지스틱스솔루션 SW 유지보수 직무 신입 채용 서류마감~~
 - ~~2일 17시까지 한국일보사 IT개발자 직무 신입 채용 서류마감~~
-- **2일~8일 프로그래머스 7daySQL 챌린지** [링크](https://programmers.co.kr/events/7day-sql?utm_source=programmers&utm_medium=learn_7daySQL&utm_campaign=7daySQL)
+- ~~**2일~8일 프로그래머스 7daySQL 챌린지** [링크](https://programmers.co.kr/events/7day-sql?utm_source=programmers&utm_medium=learn_7daySQL&utm_campaign=7daySQL~~
 - ~~4일 13시까지 [NHN 계열사]피앤피시큐어 개발 직무 신입/경력 채용 서류 마감~~
 - ~~4일 14시까지 새마을금고중앙회 전산 직무 신입 채용 서류 마감~~
 - ~~**4일 24시까지 2020 카카오 블라인드 채용 서류 마감**~~
@@ -21,7 +22,7 @@
 - ~~5일 17시까지 국민건강보험공단 전산직 전산 분야 직무 신입 채용 서류 마감~~
 - ~~**7일 오후 2시 ~ 7시 카카오 온라인 1차 테스트**~~
 - ~~7일 오후 2시 30분 ~ 5시 30분 삼성 A형 시험~~
-- 8일 24시까지 현대제철 R&D부문 신입 수시채용 서류 마감 (제어계측, 스마트팩토리 직무)
+- ~~8일 24시까지 현대제철 R&D부문 신입 수시채용 서류 마감 (제어계측, 스마트팩토리 직무)~~
 - **9일 삼성 B형 시험 신청 - 오전 10시**
 - 9일 17시까지 금융감독원 IT 직무 신입 채용 서류 마감
 - 10일 14시까지 신용보증기금 	ICT 및 데이터 전문인력 신입 채용 서류 마감
@@ -55,6 +56,7 @@
 - **17일 18시까지 네이버 개발 직군 신입사원 공개채용 서류 마감**
 - 18일 17시까지 코오롱베니트 IT시스템 개발 운영 직무 신입 채용 서류 마감
 - 19일 18시까지 두산그룹 [퓨얼셀 BG]DT(Digital Transformation) /IT 직무 신입 채용 서류 마감
+- **20일 17시까지 GS SHOP IT직무 신입 채용 서류 마감**
 - 20일 18시까지 효성그룹 [효성티앤에스(주)]기술·개발 직무 신입 채용 서류 마감
 - 23일 9시까지 판토스 IT 직무 신입 채용 서류 마감
 - **23일 18시까지 롯데그룹 신입 채용 서류 마감**
@@ -67,7 +69,6 @@
 - 30일 24시까지 현대엠엔소프트 자동차 내비게이션 S/W 개발 신입 채용 서류 마감
 - 날짜미정 SOSCON 2019 신청
 - 날짜미정 네이버 DEVIEW 신청
-- 날짜미정 네이버 공개채용 예정
 - 펄어비스 2019 개발 직군 상시 모집
 
 ### 10월
