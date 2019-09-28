@@ -9,6 +9,10 @@
 - [19-09-11 8회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190911_8.md)
 - [19-09-17 9회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190917_9.md)
 - [19-09-24 10회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190924_10.md)
+- [19-09-28 11회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190928_11.md)
+
+## 모였던 장소들
+[링크](https://www.google.com/maps/d/edit?mid=1M3thFT_ghIP8Gnc42GmxV8A-vVwmtHfQ)
 
 ## 행사 일정
 
@@ -16,14 +20,6 @@
 - 펄어비스 2019 개발 직군 상시 모집
 
 ### 9월
-- 16일 부터 SOSCON 2019 신청가능 (선착순)
-- 24일 SAIF(삼성 인공지능 포럼) 신청가능 (선착순)
-- 25일 17시까지 JB 인공지능, 빅데이터 신입 채용 서류 마감
-- 25일 18시까지 대한항공 전산직 신입 채용 서류 마감
-- 25일 24시까지 한국전자금융 IT개발 신입 채용 서류 마감
-- 27일 15시까지 프로그래머스 2019 웹개발자 온라인 잡페어 접수 마감[링크](https://programmers.co.kr/competitions/105/2019-remote-jobfair-2nd?utm_source=programmers&utm_medium=learn_competition105&utm_campaign=competition105)
-- 28일 10시 ~ 12시 프로그래머스 2019 웹개발자 온라인 잡페어 코딩테스트
-- 28일 13시 30분 ~ 17시 30분 삼성 B형 시험
 - 29일 **10시 ~ 12시 NHN Pre-Test 1차**
 - 29일 24시까지 한국타이어 IT, 생산혁신 신입 채용 서류 마감
 - 29일 24시까지 케이에스넷 전산개발 신입 채용 서류 마감
@@ -137,3 +133,11 @@
 - ~~23일 24시까지 NS홈쇼핑 플랫폼 백엔드 개발 직무 신입 채용 서류 마감~~
 - ~~24일 15시까지 KT&G IT개발·운영 신입 채용 서류 마감~~
 - ~~**24일 18시까지 CJ그룹 신입 채용 서류 마감**~~
+- ~~16일 부터 SOSCON 2019 신청가능 (선착순)~~
+- ~~24일 SAIF(삼성 인공지능 포럼) 신청가능 (선착순)~~
+- ~~25일 17시까지 JB 인공지능, 빅데이터 신입 채용 서류 마감~~
+- ~~25일 18시까지 대한항공 전산직 신입 채용 서류 마감~~
+- ~~25일 24시까지 한국전자금융 IT개발 신입 채용 서류 마감~~
+- ~~27일 15시까지 프로그래머스 2019 웹개발자 온라인 잡페어 접수 마감[링크](https://programmers.co.kr/competitions/105/2019-remote-jobfair-2nd?utm_source=programmers&utm_medium=learn_competition105&utm_campaign=competition105)~~
+- ~~28일 10시 ~ 12시 프로그래머스 2019 웹개발자 온라인 잡페어 코딩테스트~~
+- ~~28일 13시 30분 ~ 17시 30분 삼성 B형 시험~~
