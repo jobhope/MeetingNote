@@ -11,6 +11,7 @@
 - [19-09-24 10회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190924_10.md)
 - [19-09-28 11회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190928_11.md)
 - [19-10-01 12회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191001_12.md)
+- [19-10-04 13회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191004_13.md)
 
 ## 모였던 장소들
 [링크](https://www.google.com/maps/d/edit?mid=1M3thFT_ghIP8Gnc42GmxV8A-vVwmtHfQ)
@@ -21,9 +22,6 @@
 - 펄어비스 2019 개발 직군 상시 모집
 
 ### 10월
-- 2일 17시까지 한국자산관리공사 전산 채용형 청년 인턴 서류 마감
-- **2일 18시까지 신한은행(디지털/ICT) 신입 채용 서류 마감**
-- 3일 24시까지 한국IBM Software Developer 신입 채용 서류 마감
 - 4일 17시까지 한전KPS 전산 신입 채용 서류 마감
 - 4일 24시까지 다날 결제개발 신입 채용 서류 마감
 - 5일 24시까지 교보증권 IT 신입 채용 서류 마감
@@ -168,5 +166,8 @@
 - ~~1일 14시 한전KDN 4직급 기술_통신 대졸 신입 채용 서류 마감~~
 - ~~**1일 18시까지 우리은행[IT,디지털], 우리카드[디지털]우리에프아이에스 IT개발 및 운영 신입 채용 서류 마감**~~
 - ~~1일 18시까지 금호아시아나그룹 시스템 개발 및 운영 직무 신입 채용 서류 마감~~
+- ~~2일 17시까지 한국자산관리공사 전산 채용형 청년 인턴 서류 마감~~
+- ~~**2일 18시까지 신한은행(디지털/ICT) 신입 채용 서류 마감**~~
+- ~~3일 24시까지 한국IBM Software Developer 신입 채용 서류 마감~~
 
 </details>
