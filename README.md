@@ -13,6 +13,7 @@
 - [19-10-01 12회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191001_12.md)
 - [19-10-04 13회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191004_13.md)
 - [19-10-06 14회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191006_14.md)
+- [19-10-10 15회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191010_15.md)
 
 ## 모였던 장소들
 [링크](https://www.google.com/maps/d/edit?mid=1M3thFT_ghIP8Gnc42GmxV8A-vVwmtHfQ)
@@ -23,12 +24,11 @@
 - 펄어비스 2019 개발 직군 상시 모집
 
 ### 10월
-- 9일 24시까지 휴머스온 솔루션 개발 채용연계형 인턴 채용 서류 마감
-- **10일 15시 네이버 DEVIEW 2019 DAY1 선착순 신청**
-- **10일 17시까지 DB그룹 IT 신입 채용 서류 마감**
 - 10일 14시까지 스마일게이트 개발 신입 채용 서류 마감
 - 10일 14시까지 컴투스, 게임빌컴투스플랫폼 개발 신입 채용 서류 마감
 - 10일 14시까지 KIS 채권평가 IT 개발 신입/경력 채용 서류 마감
+- **10일 15시 네이버 DEVIEW 2019 DAY1 선착순 신청**
+- **10일 17시까지 DB그룹 IT 신입 채용 서류 마감**
 - 10일 24시까지 11번가 Data개발, 서비스개발, Infral 신입 채용 서류 마감
 - **11일 15시 네이버 DEVIEW 2019 DAY2 선착순 신청**
 - 11일 18시 [SSG닷컴]WEB개발, [신세계아이앤씨]S/W개발 신입 채용 서류 마감
@@ -182,5 +182,6 @@
 - ~~7일 18시까지 성우하이텍 IT(전산),IT(체코) 신입 채용 서류 마감~~
 - ~~7일 18시까지 엔디에스(NDS) IT개발 신입 채용 서류 마감~~
 - ~~8일 24시까지 이투스교육 Web & Server Developer 신입/경력 채용 서류 마감~~
+- ~~9일 24시까지 휴머스온 솔루션 개발 채용연계형 인턴 채용 서류 마감~~
 
 </details>
