@@ -14,6 +14,7 @@
 - [19-10-04 13회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191004_13.md)
 - [19-10-06 14회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191006_14.md)
 - [19-10-10 15회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191010_15.md)
+- [19-10-10 16회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191014_16.md)
 
 ## 모였던 장소들
 [링크](https://www.google.com/maps/d/edit?mid=1M3thFT_ghIP8Gnc42GmxV8A-vVwmtHfQ)
@@ -24,8 +25,6 @@
 - 펄어비스 2019 개발 직군 상시 모집
 
 ### 10월
-- 13일 24시까지 지니뮤직 서버 사이드 개발/운영 신입 채용 서류 마감
-- 13일 24시까지 LIG넥스원 SW 신입 채용 서류 마감
 - 14일 15시까지 금호석유화학그룹 IT 직무 신입 채용 서류 마감
 - 14일 24시까지 파수닷컴 S/W 개발 신입 채용 서류 마감
 - 14일 24시까지 마크로젠 IT 직무 신입 채용 서류 마감
@@ -183,5 +182,7 @@
 - ~~10일 24시까지 11번가 Data개발, 서비스개발, Infral 신입 채용 서류 마감~~
 - ~~**11일 15시 네이버 DEVIEW 2019 DAY2 선착순 신청**~~
 - ~~11일 18시 [SSG닷컴]WEB개발, [신세계아이앤씨]S/W개발 신입 채용 서류 마감~~
+- ~~13일 24시까지 지니뮤직 서버 사이드 개발/운영 신입 채용 서류 마감~~
+- ~~13일 24시까지 LIG넥스원 SW 신입 채용 서류 마감~~
 
 </details>
