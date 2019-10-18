@@ -15,6 +15,7 @@
 - [19-10-06 14회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191006_14.md)
 - [19-10-10 15회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191010_15.md)
 - [19-10-14 16회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191014_16.md)
+- [19-10-18 17회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191018_17.md)
 
 ## 모였던 장소들
 [링크](https://www.google.com/maps/d/edit?mid=1M3thFT_ghIP8Gnc42GmxV8A-vVwmtHfQ)
@@ -25,7 +26,6 @@
 - 펄어비스 2019 개발 직군 상시 모집
 
 ### 10월
-- **16~17 SOSCON 2019**
 - 17일 17시까지 티머니 기술 직무 신입 채용 서류 마감
 - 18일 10시까지 한국항공우주산업 개발, 공통 부분 신입 채용 서류 마감
 - 18일 15시까지 위메프 SW개발 신입 채용 서류 마감
@@ -36,6 +36,7 @@
 - 20일 24시까지 SPC네트웍스 응용프로그램 개발 신입 채용 서류 마감
 - 20일 24시까지 인터파크 Front-end개발, Net개발 신입/경력 채용 서류 마감
 - 20일 24시까지 AKIS SW 운영/개발 직무 신입/경력 채용 서류 마감
+- 20일 24시까지 KT mhows 서비스 개발 신입 채용 서류 마감
 - 21일 24시까지 삼광랩트리 전산 직무 신입 채용 서류 마감
 - 21일 24시까지 ASE KOREA IT직무 신입 채용 서류 마감
 - 22일 17시까지 수협은행 본부_IT 분야 직무 신입 채용 서류 마감
@@ -191,5 +192,6 @@
 - ~~16일 18시까지 한국과학기술연구원 로봇/IT직무 채용 서류 마감~~
 - ~~16일 18시까지 크래프톤 테크(프로그래밍) 신입 채용 서류 마감~~
 - ~~16일 18시까지 하나 캐피탈 디지털 직무 신입 채용 서류 마감~~
+- ~~**16~17 SOSCON 2019**~~
 
 </details>
