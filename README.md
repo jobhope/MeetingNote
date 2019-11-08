@@ -18,6 +18,7 @@
 - [19-10-18 17회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191018_17.md)
 - [19-10-22 18회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191022_18.md)
 - [19-10-30 19회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191030_19.md)
+- [19-11-08 20회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191108_20.md)
 
 ## 모였던 장소들
 [링크](https://www.google.com/maps/d/edit?mid=1M3thFT_ghIP8Gnc42GmxV8A-vVwmtHfQ)
@@ -28,9 +29,6 @@
 - 펄어비스 2019 개발 직군 상시 모집
 
 ### 11월
-- 3일 24시까지 위즈코어 신입 개발자채용 서류 마감
-- 4일 18시까지 마이다스아이티 응용 SW개발 신입 채용 서류 마감
-- **5일 삼성 AI 포럼 Day2**
 
 ---
 ## 지난 기록
@@ -202,5 +200,14 @@
 - ~~31일 24시까지 이에이트 프로그램개발 직무 신입 채용 서류 마감~~
 - ~~31일 24시까지 차세대 내비게이션 S/W 개발 직무 신입 채용 서류 마감~~
 - ~~31일 24시까지 쎄트렉아이 SW개발 직무 신입 채용 서류 마감~~
+
+</details>
+
+### 11월
+<details close> <summary> 펼치기 / 접기 </summary>
+ 
+- ~~3일 24시까지 위즈코어 신입 개발자채용 서류 마감~~
+- ~~4일 18시까지 마이다스아이티 응용 SW개발 신입 채용 서류 마감~~
+- ~~**5일 삼성 AI 포럼 Day2**~~
 
 </details>
