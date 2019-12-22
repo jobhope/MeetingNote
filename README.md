@@ -23,6 +23,7 @@
 - [19-11-24 22회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191124_22.md)
 - [19-11-30 23회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191130_23.md)
 - [19-12-07 24회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191207_24.md)
+- [19-12-22 25회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191222_25.md)
 
 ## 모였던 장소들
 [링크](https://www.google.com/maps/d/edit?mid=1M3thFT_ghIP8Gnc42GmxV8A-vVwmtHfQ)
