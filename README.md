@@ -1,4 +1,5 @@
 # MeetingNote
+### 2019년
 - [19-08-16 1회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190816_1.md)
 - [19-08-19 2회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190819_2.md)
 - [19-08-22 3회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20190822_3.md)
@@ -24,6 +25,9 @@
 - [19-11-30 23회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191130_23.md)
 - [19-12-07 24회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191207_24.md)
 - [19-12-22 25회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20191222_25.md)
+
+### 2020년
+- [20-01-12 26회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20200112_26.md)
 
 ## 모였던 장소들
 [링크](https://www.google.com/maps/d/edit?mid=1M3thFT_ghIP8Gnc42GmxV8A-vVwmtHfQ)
