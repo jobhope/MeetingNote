@@ -28,6 +28,7 @@
 
 ### 2020년
 - [20-01-12 26회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20200112_26.md)
+- [20-01-19 27회차 기록](https://github.com/jobhope/MeetingNote/blob/master/meetingNote/20200119_27.md)
 
 ## 모였던 장소들
 [링크](https://www.google.com/maps/d/edit?mid=1M3thFT_ghIP8Gnc42GmxV8A-vVwmtHfQ)
