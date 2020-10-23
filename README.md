@@ -35,6 +35,7 @@
 - [20-06-06 31회차 기록](meetingNote/20200606_31.md)
 - [20-06-27 32회차 기록](meetingNote/20200627_32.md)
 - [20-08-07 33회차 기록](meetingNote/20200807_33.md)
+- [20-10-23 34회차 기록](meetingNote/20201023_34.md)
 
 ## 모였던 장소들
 [링크](https://www.google.com/maps/d/edit?mid=1M3thFT_ghIP8Gnc42GmxV8A-vVwmtHfQ)
